@@ -14,3 +14,6 @@ Planed features:
  - scan results save in to json
  - more scan option
  - improved speed
+
+
+Updates comming soon!
